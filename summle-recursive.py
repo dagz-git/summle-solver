@@ -1,3 +1,4 @@
+#Solution implemeted by my bro Gerardo Menses <3
 nums = [3, 3, 8, 8, 25, 100]
 target = 540
 operation = {
